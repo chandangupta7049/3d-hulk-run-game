@@ -1,0 +1,8 @@
+{
+  "name": "Relic Rush 3D: Lost Jungle Odyssey",
+  "description": "Fast-paced 3D endless runner through ancient jungle ruins. Jump, slide, dodge obstacles, collect ancient relics, and unlock power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
